@@ -1,6 +1,7 @@
 <!---
 {
   "id": "db286852-f2d2-4593-adc1-6682f352cd4f",
+  "teaches": "Advanced Document Structuring: Labels and References",
   "depends_on": [
     "66726805-4497-4dce-a1ba-ccf930a721f8",
     "11830a64-a50f-461e-8379-ae9511768cc4",
